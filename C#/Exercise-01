@@ -1,8 +1,8 @@
 // Write a C# Sharp program to print Hello and your name in a separate line. 
 
-public class exerciseOne {
-
-  System.Console.WriteLine("Hello");
-  System.Console.WriteLine("I'm Indah");
-
+public class Program {
+  public static voi Main(){
+    System.Console.WriteLine("Hello");
+    System.Console.WriteLine("I'm Indah");
+  }
 }
